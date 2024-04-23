@@ -1,7 +1,0 @@
-Date,Region,Thermal_Generation_Actual,Thermal_Generation,Nuclear_Generation_Actual,Nuclear_Generation_Estimated,Hydro_Generation_Actual,Hydro_Generation_Estimated
-09/01/2017,Northern,624.23,484.21,30.36,35.57,273.27,320.81
-09/01/2017,Western,1106.89,1024.33,25.17,3.81,72,21.53
-09/01/2017,Southern,576.66,578.55,62.73,49.8,111.57,64.78
-09/01/2017,Eastern,441.02,429.39,NaN,NaN,85.94,69.36
-09/01/2017,NorthEastern,29.11,15.91,NaN,NaN,24.64,21.21
-09/02/2017,Northern,624.23,507.42,30.36,35.69,273.27,317.19
