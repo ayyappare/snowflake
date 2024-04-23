@@ -8,11 +8,11 @@ seeds:
         std_heaight: float
         std_weight: float
         country:
-          division:
+          std2:
             column_types:
-              SUBDIVISION: varchar(100)
-              year: date
-              jan: float
-              feb: float
-              mar: float
+              std_id: number
+              std_name: varchar(30)
+              std_grade: float
+              std_heaight: float
+              std_weight: float
 
