@@ -11,6 +11,6 @@
     )
 }}
  
-select * from {{ source('dbt_avempalli', 'employee') }}
+select * from {{ source('dbt_avempalli', 'employees') }}
  
 {% endsnapshot %}

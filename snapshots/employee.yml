@@ -5,4 +5,4 @@ sources:
     database: dbt_dev
     schema: dbt_avempalli
     tables:
-      - name: employee
+      - name: employees
