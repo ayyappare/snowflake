@@ -11,7 +11,6 @@ seeds:
           division:
             column_types:
               SUBDIVISION: varchar(100)
-              year: date
               jan: float
               feb: float
               mar: float
