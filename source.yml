@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: dbt_avempalli
+    database: dbt_dev
+    schema: dbt_avempalli
+    tables:
+      - name: orders
+      - name: products
