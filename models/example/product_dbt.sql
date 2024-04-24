@@ -7,4 +7,4 @@ SELECT
     category,
     price
 FROM
-    {{ source('dbt_avempalli', 'products') }};
+    {{ source('dbt_avempalli', 'products') }}

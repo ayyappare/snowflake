@@ -9,4 +9,4 @@ SELECT
     quantity,
     total_price
 FROM
-    {{ source('dbt_avempalli', 'orders') }};
+    {{ source('dbt_avempalli', 'orders') }}
