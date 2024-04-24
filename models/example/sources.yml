@@ -5,5 +5,5 @@ sources:
     database: dbt_dev
     schema: dbt_avempalli
     tables:
-      - name: orders_dbt
-      - name: products_dbt
+      - name: orders
+      - name: products
