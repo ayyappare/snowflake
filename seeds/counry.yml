@@ -1,0 +1,18 @@
+seeds:
+  - name: student_data
+    config:
+      column_types:
+        std_id: number
+        std_name: varchar(30)
+        std_grade: float
+        std_heaight: float
+        std_weight: float
+        country:
+          std2:
+            column_types:
+              std_id: number
+              std_name: varchar(30)
+              std_grade: float
+              std_heaight: float
+              std_weight: float
+

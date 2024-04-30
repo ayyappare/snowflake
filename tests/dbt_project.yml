@@ -1,0 +1,9 @@
+tests:
+  <resource-path>:
+    +enabled: true | false
+    +tags: <string> | [<string>]
+    +meta: {dictionary}
+    # relevant for store_failures only
+    +database: <string>
+    +schema: <string>
+    +alias: <string>
