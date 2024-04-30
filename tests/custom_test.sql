@@ -1,5 +1,5 @@
 select
 *
 from 
-   {{ ref('code')}}
-where std_name = 'ram'
+   {{ ref('data')}}
+where col_name = 'AITS'
