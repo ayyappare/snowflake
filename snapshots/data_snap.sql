@@ -6,7 +6,7 @@
       target_schema='dbt_avempalli',
       strategy='check',
       unique_key='std_id',
-      check_cols=['col_fee'],
+      check_cols=['col_name'],
     )
 }}
 
